@@ -5,7 +5,7 @@ _desc="NVIDIA drivers for linux"
 pkgname=nvidia-beta
 version=570.86.16
 revision=1
-maintainer="Elyas Sindi <elyassindi2020@gmail.com"
+maintainer="Elyas Sindi <elyassindi2020@gmail.com>"
 license="custom:NVIDIA Proprietary"
 homepage="https://www.nvidia.com/en-us/drivers/unix/"
 
