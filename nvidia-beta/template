@@ -18,7 +18,7 @@ hostmakedepends="tar"
 conflicts="xserver-abi-video>25_1 nvidia470>=0 nvidia390>=0 nvidia>=0"
 
 _pkg="NVIDIA-Linux-x86_64-${version}"
-distfiles="https://us.download.nvidia.com/XFree86/Linux-x86_64/580.65.06/NVIDIA-Linux-x86_64-580.65.06.run"
+distfiles="https://us.download.nvidia.com/XFree86/Linux-x86_64/${version}/NVIDIA-Linux-x86_64-${version}.run"
 checksum=4563ea4bb654247f491005a57c72c676aacd95abe1691d71332cecf25261cbd5
 # subpackages need to be processed in this specific order
 subpackages="nvidia-gtklibs nvidia-dkms nvidia-firmware nvidia-opencl nvidia-libs nvidia-libs-32bit"
